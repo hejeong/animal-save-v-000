@@ -16,8 +16,3 @@ html {
   }
 }
 
-@media only screen and (min-width: 430px){
-  #monkey {
-    top: 550px;
-  }
-}
